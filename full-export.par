@@ -1,0 +1,6 @@
+USERID='SYSTEM/manager'
+FILE=full-export.dmp
+LOG=full-export.log
+FULL=y
+CONSISTENT=y
+

@@ -1,0 +1,5 @@
+USERID='SYSTEM/manager'
+FILE=/maintain/dumps/5tbsbluefin.dmp
+LOG=/maintain/dumps/full-import.log
+FULL=y
+

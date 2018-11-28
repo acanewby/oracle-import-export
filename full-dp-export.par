@@ -1,0 +1,7 @@
+USERID='SYSTEM/manager'
+DIRECTORY=DATA_PUMP_DIR
+DUMPFILE=full-export_%U.dpump
+REUSE_DUMPFILES=Y
+LOGFILE=full-export.dpump.log
+FULL=y
+PARALLEL=4
